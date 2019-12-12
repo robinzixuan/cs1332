@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b03cc494-a72f-4e2b-adbd-504e71048c64" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Q9vySC91YdqfY6ULjB1GcFBrsM" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphAlgorithmsPeterTest">
+    <configuration name="FailureTableClassExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hmw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FailureTableClassExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsPeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hmw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsPeterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsPeterTest.test0GraphKruskals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hmw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsPeterTest" />
+      <option name="METHOD_NAME" value="test0GraphKruskals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsPeterTest.testDijkstra" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hmw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsPeterTest" />
+      <option name="METHOD_NAME" value="testDijkstra" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hmw2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphAlgorithmsPeterTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsPeterTest.testDijkstra" />
+        <item itemvalue="JUnit.GraphAlgorithmsStudentTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsPeterTest.test0GraphKruskals" />
+        <item itemvalue="JUnit.FailureTableClassExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03cc494-a72f-4e2b-adbd-504e71048c64" name="Default Changelist" comment="" />
+      <created>1567195880986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567195880986</updated>
+      <workItem from="1567195896721" duration="410000" />
+      <workItem from="1567206245958" duration="1356000" />
+      <workItem from="1567209125226" duration="12000" />
+      <workItem from="1567233723102" duration="4689000" />
+      <workItem from="1567287162323" duration="570000" />
+      <workItem from="1567550923959" duration="41000" />
+      <workItem from="1567550968841" duration="5971000" />
+      <workItem from="1567694115835" duration="727000" />
+      <workItem from="1567775578025" duration="573000" />
+      <workItem from="1567811776324" duration="6000" />
+      <workItem from="1567812392847" duration="129000" />
+      <workItem from="1567829017686" duration="4605000" />
+      <workItem from="1567834073584" duration="31000" />
+      <workItem from="1567834132880" duration="12457000" />
+      <workItem from="1568004989896" duration="8517000" />
+      <workItem from="1568069988268" duration="51000" />
+      <workItem from="1568072048396" duration="2486000" />
+      <workItem from="1568089394534" duration="205000" />
+      <workItem from="1568265866333" duration="20000" />
+      <workItem from="1568266979607" duration="804000" />
+      <workItem from="1568382181616" duration="188000" />
+      <workItem from="1568504747398" duration="4483000" />
+      <workItem from="1569042766028" duration="5745000" />
+      <workItem from="1569097435093" duration="190000" />
+      <workItem from="1569251264563" duration="708000" />
+      <workItem from="1569527413676" duration="45000" />
+      <workItem from="1569612926578" duration="177000" />
+      <workItem from="1569644327018" duration="5734000" />
+      <workItem from="1569650767737" duration="20000" />
+      <workItem from="1569703950510" duration="3860000" />
+      <workItem from="1569711312986" duration="23000" />
+      <workItem from="1569865088127" duration="7576000" />
+      <workItem from="1569878868211" duration="1402000" />
+      <workItem from="1569880809461" duration="6521000" />
+      <workItem from="1569949967264" duration="11336000" />
+      <workItem from="1570029382885" duration="64000" />
+      <workItem from="1570029479422" duration="124000" />
+      <workItem from="1570029629564" duration="10000" />
+      <workItem from="1570029808406" duration="1974000" />
+      <workItem from="1570160023853" duration="120000" />
+      <workItem from="1570255476767" duration="34000" />
+      <workItem from="1570499924498" duration="24845000" />
+      <workItem from="1571094596117" duration="427000" />
+      <workItem from="1571461426959" duration="127000" />
+      <workItem from="1571461715988" duration="9326000" />
+      <workItem from="1571614121818" duration="4987000" />
+      <workItem from="1571679819832" duration="61000" />
+      <workItem from="1571679885590" duration="457000" />
+      <workItem from="1571844323150" duration="1983000" />
+      <workItem from="1571942493838" duration="1611000" />
+      <workItem from="1572554910168" duration="26000" />
+      <workItem from="1572711626249" duration="13591000" />
+      <workItem from="1573007212128" duration="3000" />
+      <workItem from="1573007220189" duration="324000" />
+      <workItem from="1573063203687" duration="524000" />
+      <workItem from="1573763132665" duration="10926000" />
+      <workItem from="1573896056376" duration="2233000" />
+      <workItem from="1574079666818" duration="380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
